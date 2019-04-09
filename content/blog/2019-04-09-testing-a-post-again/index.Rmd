@@ -1,0 +1,40 @@
+---
+title: Testing a Post Again
+author: Allison Horst
+date: '2019-04-09'
+categories: []
+tags: []
+description: ''
+featured: ''
+featuredalt: ''
+featuredpath: ''
+linktitle: ''
+type: post
+---
+
+```{r, include = FALSE}
+library(tidyverse)
+```
+
+
+# Just testing a post again
+## Still swimming
+
+*trying out some formatting for font type*
+
+**more TESTING**
+
+and some LaTeX $a = bx^2-7$
+
+Then a code chunk: 
+```{r}
+
+Allison <- 10
+Horst <- 15
+
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point()
+
+
+```
+

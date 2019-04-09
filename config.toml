@@ -92,7 +92,7 @@ canonifyURLs = true
 
   paragraph = "Art, R, and other things."
 
-  about     = "Not sure where this ends up..."
+  about     = "I'm a statistics, data analysis and presentation skills lecturer at the Bren School of Environmental Science and Management (UC Santa Barbara)."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
