@@ -7,7 +7,7 @@
 
 
 @import url('https://fonts.googleapis.com/css?family=Muli:400,800,900');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=PT+Mono');
 
 	header p {
 		font-family: "Muli", Helvetica, sans-serif;
@@ -219,7 +219,7 @@
 	code {
 		background: rgba(160, 160, 160, 0.075);
 		border: solid 1px rgba(160, 160, 160, 0.3);
-		font-family: 'Roboto Mono', monospace;
+		font-family: 'PT Mono', monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -227,7 +227,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: 'Roboto Mono', monospace;
+		font-family: 'PT Mono', monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 		display: table;
