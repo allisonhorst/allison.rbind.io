@@ -5,9 +5,9 @@ date: '2019-04-09'
 categories: []
 tags: []
 description: ''
-featured: 'tt_80s_update.png'
+featured: 'test_img.jpg'
 featuredalt: ''
-featuredpath: 'date'
+featuredpath: ''
 linktitle: ''
 type: post
 ---
@@ -37,4 +37,10 @@ ggplot(cars, aes(x = speed, y = dist)) +
 
 
 ```
+
+
+Seems to recognize pathway from the post folder (I think), but doesn't work when rendered...probably some really basic screw up here....
+
+![](test_img.jpg) 
+
 
