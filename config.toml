@@ -11,7 +11,8 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 enableEmoji = true
 canonifyURLs = true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"] # Copied from Alison slides
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Sets the meta tag description
