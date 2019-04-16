@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Allison Horst"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -9,14 +9,16 @@ googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
+enableEmoji = true
 canonifyURLs = true
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Allison Horst's blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Art, R, repeat."
+  navbarTitle          = "Art + R."
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -91,7 +93,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params.intro]
   header    = "Allison Horst"
 
-  paragraph = "Art, R, and other things."
+  paragraph = "Art + R."
 
   about     = "I'm a statistics, data analysis and presentation skills lecturer at the Bren School of Environmental Science and Management (UC Santa Barbara)."
 
@@ -104,7 +106,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "Allison in the Alabama Hills"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
