@@ -12,6 +12,9 @@ enableRobotsTXT = true
 enableEmoji = true
 canonifyURLs = true
 
+[permalinks] # Added 4/16/19 (from Yihue bookdown suggestion):
+    post = "/:year/:month/:day/:slug/"
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
@@ -123,13 +126,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   name = "About"
   url = "/about/"
-  identifier = "fa fa-id-card-o"
+  identifier = "fa fa-user"
   weight = 2
 
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
-  identifier = "fa fa-newspaper-o"
+  identifier = "fa fa-pencil-alt"
   weight = 3
 
 [[menu.main]]
