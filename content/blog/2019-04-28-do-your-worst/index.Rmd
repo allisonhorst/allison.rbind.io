@@ -33,7 +33,7 @@ Instead of trying to recreate or further improve on their graphs, I decided to u
 
 Behold, my worst!
 
-![so bad](/2019-04-28-do-your-worst/index_files/cowplot_test.png){width=400px}
+![](cowplot_test.png)
 
 
 
