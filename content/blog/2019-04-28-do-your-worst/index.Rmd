@@ -40,6 +40,7 @@ The undiscerning eye might think "these graphs are abominations and there was cl
 Wrong.
 
 **It's a long dive from ggplot2 defaults into the depths of truly terrible DataViz, and it takes creativity and effort to keep sinking**. 
+
 Here are just a few things I learned or re-learned during my nosedive:
 
 - Arrange multiple graphs with [**cow**plot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) by [**C**laus **O**. **W**ilke](https://github.com/clauswilke)
@@ -51,9 +52,15 @@ Here are just a few things I learned or re-learned during my nosedive:
 
 [(*click here for my complete worst dataviz code*)](https://github.com/allisonhorst/allison-tidy-tuesdays/tree/master/2019-%2004-16)
 
-I learned a lot by trying my worst, and created some good reference code in the process. It felt liberating to be deliberately and creatively awful. 
+Through the process of trying my worst I learned some new customization skills, created useful reference code for future ggplot2 efforts, and had fun -- it felt oddly liberating to be deliberately and creatively awful. 
 
-From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute worst. There's plenty of room at the bottom -- and we can learn a lot and have some fun on our way down. 
+From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute worst. There's plenty of room at the bottom, and we can learn a lot *and* have fun on our way down. 
+
+## Data visualization resources (in the other direction):
+
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by Claus Wilke
+
+- [Data Visualization: a Practical Introduction](https://kieranhealy.org/publications/dataviz/) by Kieran Healy
 
 
 
