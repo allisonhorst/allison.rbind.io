@@ -1,5 +1,5 @@
 ---
-title: Do your Worst
+title: TRYING YOUR WORST WITH GGPLOT2
 author: Allison Horst
 date: '2019-04-28'
 slug: do-your-worst
@@ -16,19 +16,24 @@ linktitle: ''
 type: post
 ---
 
-Clear and engaging data visualization is a critical part of science communication, and one that I emphasize in all courses I teach at the Bren School. So in the past, I've stressed the importance of customizing graphs to make them the best. 
+In the past I've always asked students to create their *best possible graphs* in `ggplot2` to practice creating clear, engaging data visualizations. Recently, I've realized value in adding a few early exercises that encourage students to make their **worst**.
 
-Recently, I've realized value in adding exercises that require students to make their **worst**.
+**Why is it good to make ggplot2 graphs so (intentionally) bad?**
 
-*Why is it sometimes __good__ to be so (intentionally) __bad__?*
+Here are four ways that creating a purposefully disgusting graph promotes learning and exploration in `ggplot2`: 
 
-Key word: *intentionally*. Creating a purposefully disgusting graph can promote learning in several useful ways: 
+1. Making **the worst** graph encourages creativity while eliminating the stress of producing a perfect final visualization (unless, of course, it's perfectly hideous)
+2. Making **the worst** graph requires extensive customization and code
+3. Making **the worst** graph helps students critically think about and identify what can make a graph "bad"
+4. Making **the worst** graph is surprisingly freeing and fun
 
-1. Making **the worst** graph encourages creativity
-2. Making **the worst** graph requires extensive customization 
-3. Making **the worst** graph makes us identify specific ways that a graph can be "bad"
-4. Making **the worst** graph eliminates the stress of producing a perfect final product (...unless, of course, it's perfectly awful)
-5. Making **the worst** graph is surprisingly freeing and fun
+I was recently inspired to try my absolute dataviz worst by a [#tidytuesday](https://github.com/rfordatascience/tidytuesday) prompt using data from [Sarah Leo's efforts to improve imperfect graphs in The Economist](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368). 
+
+Instead of trying to recreate or further improve on their graphs, I decided to take it a different direction. A much darker direction. 
+
+Behold, my worst!
+
+![so bad](/2019-04-28-do-your-worst/index_files/cowplot_test.png){width=400px}
 
 
 
