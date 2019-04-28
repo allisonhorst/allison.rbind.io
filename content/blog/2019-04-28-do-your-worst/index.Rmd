@@ -1,5 +1,5 @@
 ---
-title: TRYING YOUR WORST WITH GGPLOT2
+title: The value in trying your worst 
 author: Allison Horst
 date: '2019-04-28'
 slug: do-your-worst
@@ -29,7 +29,7 @@ Here are four ways that creating a purposefully disgusting graph promotes learni
 
 I was recently inspired to try my absolute dataviz worst by a [#tidytuesday](https://github.com/rfordatascience/tidytuesday) prompt using data from [Sarah Leo's efforts to improve imperfect graphs in The Economist](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368). 
 
-Instead of trying to recreate or further improve on their graphs, I decided to take it a different direction. A much darker direction. 
+Instead of trying to recreate or further improve on their graphs, I decided to use my powers and energy for a much different purpose. A darker, more hideous purpose... 
 
 Behold, my worst!
 
