@@ -51,9 +51,9 @@ Here are just a few things I learned or re-learned during my nosedive:
 
 [(*click here for my complete worst dataviz code*)](https://github.com/allisonhorst/allison-tidy-tuesdays/tree/master/2019-%2004-16)
 
-I learned a lot by trying my worst, and created some good reference code in the process. It was surprisingly fun and freeing to be creatively awful. 
+I learned a lot by trying my worst, and created some good reference code in the process. It felt liberating to be deliberately and creatively awful. 
 
-From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute worst. There's plenty of room at the bottom -- we can learn a lot and have some fun on our way down. 
+From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute worst. There's plenty of room at the bottom -- and we can learn a lot and have some fun on our way down. 
 
 
 
