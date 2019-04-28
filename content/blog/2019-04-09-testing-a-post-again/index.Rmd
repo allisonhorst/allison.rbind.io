@@ -41,6 +41,6 @@ ggplot(cars, aes(x = speed, y = dist)) +
 
 Seems to recognize pathway from the post folder (I think), but doesn't work when rendered...probably some really basic screw up here....
 
-![](test_img.jpg) 
+![image](test_img.jpg) 
 
 
