@@ -109,7 +109,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Allison in the Alabama Hills"
+    alt       = "Allison Horst"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
