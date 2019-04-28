@@ -54,7 +54,7 @@ Here are just a few things I learned or re-learned during my nosedive:
 
 Through the process of trying my worst I learned some new customization skills, created useful reference code for future ggplot2 efforts, and had fun -- it felt oddly liberating to be deliberately and creatively awful. 
 
-From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute worst. There's plenty of room at the bottom, and we can learn a lot *and* have fun on our way down. 
+From now on, I'll be adding a few early `ggplot2` activities requiring students to do their absolute dataviz worst. There's plenty of room at the bottom, and we can learn a lot *and* have fun on our way down. 
 
 ## Data visualization resources (in the other direction):
 

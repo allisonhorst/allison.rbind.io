@@ -37,7 +37,7 @@
 		letter-spacing: 0em;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
-		text-transform: capitalize;
+		text-transform: none;
 	}
 	
 /* Author and Format */
@@ -130,7 +130,7 @@
 					font-weight: 800;
 					letter-spacing: 0.25em;
 					margin-top: 0.5em;
-					text-transform: uppercase;
+					text-transform: none;
 					white-space: nowrap;
 				}
 				
