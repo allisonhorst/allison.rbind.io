@@ -11,7 +11,7 @@ tags:
 description: ''
 featured: ''
 featuredalt: ''
-featuredpath: 'date'
+featuredpath: ''
 linktitle: ''
 type: post
 ---
@@ -30,17 +30,17 @@ First I was like "eeeehhhhh," then I was like "pssshh fine I'll email it to you 
 
 Here is the nightmare that ensued: 
 
-##1. Everyone just still came to labs.
+## 1. Everyone just still came to labs.
 
 Seriously, attrition rate = zero. 
 
-##2. Everyone was still coding in labs. 
+## 2. Everyone was still coding in labs. 
 
 My sense was that most students didn't even look at the key despite knowing it was posted (also fine). But in each lab, several students had printed out the key as an additional resource to help them along. In short: the self-motivated students who benefitted from exploring lab keys beforehand *could*, and the rest just continued showing up and following along without it like they always had. 
 
 I've realized there are actually **no down side** to posting my instructor code keys before labs. 
 
-##In fact, there are clear benefits. Like: 
+## In fact, there are clear benefits. Like: 
 
 - If some students want to spend **more** time looking over code before labs, awesome!
 
@@ -50,7 +50,7 @@ I've realized there are actually **no down side** to posting my instructor code 
 
 - It's actually **less** work for me. I can just push all materials to GitHub (data, lab templates, keys), without feeling like I have to hide pieces in different repos or folders or whatever. One (openly shared) Rproj to rule them all. 
 
-##What DOES this require? 
+## What DOES this require? 
 
 When it comes down to it, I wasn't sharing instructor keys because I didn't have enough faith in my students. Which is really lame, because like 99.9% of the time they've only ever been *more* committed than I expect.
 
