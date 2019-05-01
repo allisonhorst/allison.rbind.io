@@ -9,9 +9,9 @@ tags:
   - ggplot2
   - R
 description: ''
-featured: 'cowplot_test.png'
+featured: ''
 featuredalt: ''
-featuredpath: 'date'
+featuredpath: ''
 linktitle: ''
 type: post
 ---
@@ -33,7 +33,7 @@ Instead of trying to recreate or further improve on their graphs, I decided to u
 
 Behold, my worst!
 
-![](cowplot_test.png)
+![](featured_cowplot_test.png)
 
 The undiscerning eye might think "these graphs are abominations and there was clearly no effort put into them." 
 
