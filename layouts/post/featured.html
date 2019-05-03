@@ -5,7 +5,7 @@
 
 {{ with $featured }}
         <a href="{{ $page.RelPermalink }}" class="image featured">
-            <img src="{{ .RelPermalink }}">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.featuredalt | markdownify | emojify }}">
         </a>
         
 {{ end }}
