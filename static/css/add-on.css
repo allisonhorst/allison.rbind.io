@@ -246,3 +246,14 @@
 	  .share-btn.twitter:hover     { background: #ed8c4c; }
 	  .share-btn.facebook:hover    { background: #ffbe5e; }
 	  .share-btn.email:hover       { background: #ffe066; }
+
+/* Link hover colors */
+
+		a:hover {
+			border-bottom-color: transparent;
+			color: #BC45C4 !important;
+		}
+
+			a:hover:before {
+				color: #BC45C4 !important;
+			}
