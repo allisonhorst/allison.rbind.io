@@ -8,11 +8,8 @@ categories:
 tags:
   - ggplot2
   - R
-description: ''
-featured: ''
-featuredalt: ''
-featuredpath: ''
-linktitle: ''
+description: ""
+featuredalt: "I'm *alt* text!"
 type: post
 ---
 
