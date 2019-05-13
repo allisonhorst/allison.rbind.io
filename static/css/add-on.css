@@ -235,3 +235,25 @@
     table-layout: fixed;
     width: 100%
 	}
+	
+/* Share buttons */
+	
+	
+	.share-btn.twitter     { background: #e65c00; }
+	.share-btn.facebook    { background: #ffa31a; }
+	.share-btn.email       { background: #ffcc00; }
+
+	  .share-btn.twitter:hover     { background: #ed8c4c; }
+	  .share-btn.facebook:hover    { background: #ffbe5e; }
+	  .share-btn.email:hover       { background: #ffe066; }
+
+/* Link hover colors */
+
+		a:hover {
+			border-bottom-color: transparent;
+			color: #BC45C4 !important;
+		}
+
+			a:hover:before {
+				color: #BC45C4 !important;
+			}
