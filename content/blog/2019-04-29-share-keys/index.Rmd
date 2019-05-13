@@ -8,11 +8,7 @@ categories:
   - teaching
 tags:
   - R
-description: ''
-featured: ''
-featuredalt: ''
-featuredpath: 'date'
-linktitle: ''
+description: ""
 type: post
 ---
 
@@ -30,11 +26,11 @@ First I was like "eeeehhhhh," then I was like "pssshh fine I'll email it to you 
 
 Here is the nightmare that ensued: 
 
-##1. Everyone just still came to labs.
+## 1. Everyone just still came to labs.
 
 Seriously, attrition rate = zero. 
 
-##2. Everyone was still coding in labs. 
+## 2. Everyone was still coding in labs. 
 
 My sense was that most students didn't even look at the key despite knowing it was posted (also fine). But in each lab, several students had printed out the key as an additional resource to help them along. In short: self-motivated students who benefitted from exploring lab keys beforehand *could*, and the rest just continued showing up and following along without it like they always had. 
 

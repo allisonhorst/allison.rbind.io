@@ -12,8 +12,8 @@ enableRobotsTXT = true
 enableEmoji = true
 canonifyURLs = true
 
-[permalinks] # Added 4/16/19 (from Yihue bookdown suggestion):
-    post = "/:year/:month/:day/:slug/"
+[permalinks] 
+  blog = "/:year/:month/:slug/"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -117,6 +117,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
+# Icons pull from Font Awesome version 4.7.0
+# See https://fontawesome.com/v4.7.0/
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -132,7 +134,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
-  identifier = "fa fa-pencil-alt"
+  identifier = "fa fa-pencil"
   weight = 3
 
 [[menu.main]]

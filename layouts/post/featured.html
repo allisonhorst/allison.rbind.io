@@ -1,0 +1,11 @@
+
+{{ $page := . }}
+
+{{ $featured := ($page.Resources.ByType "image").GetMatch "*featured*" }}
+
+{{ with $featured }}
+        <a href="{{ $page.RelPermalink }}" class="image featured">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.featuredalt | markdownify | emojify }}">
+        </a>
+        
+{{ end }}
