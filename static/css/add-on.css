@@ -257,3 +257,38 @@
 			a:hover:before {
 				color: #BC45C4 !important;
 			}
+			
+		input[type="submit"]:hover,
+		input[type="reset"]:hover,
+		input[type="button"]:hover,
+		.button:hover {
+			border: solid 1px #BC45C4;
+			color: #BC45C4 !important;
+		}
+		
+		input[type="text"]:hover,
+		input[type="password"]:hover,
+		input[type="email"]:hover,
+		input[type="tel"]:hover,
+		select:hover,
+		textarea:hover {
+			-webkit-transition:border-color 0.3s ease-in-out;
+			-moz-transition:border-color 0.3s ease-in-out;
+			transition:border-color 0.3s ease-in-out;
+			border-color: #BC45C4;
+		}
+		
+		input[type="text"]:focus,
+		input[type="text"]:active,
+		input[type="password"]:focus,
+		input[type="password"]:active,
+		input[type="email"]:focus,
+		input[type="email"]:active,
+		input[type="tel"]:focus,
+		input[type="tel"]:active,
+		select:focus,
+		select:active,
+		textarea:focus,
+		textarea:active {
+			border: solid 1px #BC45C4;
+		}
