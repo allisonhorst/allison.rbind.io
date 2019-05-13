@@ -40,7 +40,7 @@ My sense was that most students didn't even look at the key despite knowing it w
 
 This year, I actually found **no down side** to posting my instructor code keys for students and TAs to see in advance. I'm sure there are anecdotal horror stories of shared keys ... FINISH THIS
 
-##In fact, there are clear benefits. Like: 
+## In fact, there are clear benefits. Like: 
 
 - If students want to spend **more** time looking over code before labs, why in the world would I ever **not** encourage their interest and effort?
 
