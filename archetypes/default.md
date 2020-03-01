@@ -1,7 +1,0 @@
-+++
-author = ""
-categories = []
-description = ""
-featuredalt = ""
-
-+++
