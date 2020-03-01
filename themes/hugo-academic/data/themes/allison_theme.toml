@@ -10,9 +10,9 @@ primary = "#28928a"
 # Menu
 menu_primary = "#386d73" # 500
 menu_text = "#e8f5f4"
-menu_text_active = "#28928a" # A100
+menu_text_active = "#2ada94" # A100
 menu_title = "#e8f5f4"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#f9fff6"
+home_section_even = "#fdfffd"

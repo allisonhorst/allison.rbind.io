@@ -15,9 +15,11 @@ education:
     year: 2005
 email: "ahorst@ucsb.edu"
 interests:
-- Data science
+- Statistics
+- Data analysis
+- Environmental science
 - Science communication
-- Artwork for data science education
+- Art
 name: Allison Horst
 organizations:
 - name: Bren School of Environmental Science and Management
@@ -41,4 +43,4 @@ user_groups:
 
 Hi everyone, I'm Allison! I'm a continuing lecturer at the Bren School of Environmental Science and Management at UC Santa Barbara, where I teach statistics, data analysis, and science communication. I'm also the current RStudio Artist-in-Residence, and you can find some of my R- and stats-related artwork [here](https://github.com/allisonhorst/stats-illustrations).
 
-When I'm not teaching, I can often be found wandering through the oak forests and sagebrush of the Los Padres and Inyo National Forests with my partner Greg and our dog, Teddy. 
+When I'm not teaching or painting, I can often be found wandering through the oak forests and sagebrush of the Los Padres and Inyo National Forests with my partner Greg and our dog, Teddy. 
