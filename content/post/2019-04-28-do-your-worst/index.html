@@ -1,0 +1,52 @@
+---
+title: There's value in trying your [dataviz] worst
+author: Allison Horst
+date: '2019-04-28'
+slug: do-your-worst
+categories:
+  - R
+tags:
+  - ggplot2
+  - R
+description: ""
+featuredalt: "I'm *alt* text!"
+type: post
+---
+
+
+
+<p>In the past I’ve always asked students to create their <em>best possible graphs</em> in <code>ggplot2</code> to practice creating clear, engaging data visualizations. Recently, I’ve realized value in adding a few early exercises that encourage students to make their <strong>worst</strong>.</p>
+<p><strong>Why is it good to make ggplot2 graphs so (intentionally) bad?</strong></p>
+<p>Here are four ways that creating a purposefully disgusting graph promotes learning and exploration in <code>ggplot2</code>:</p>
+<ol style="list-style-type: decimal">
+<li>Making <strong>the worst</strong> graph encourages creativity while eliminating the stress of producing a perfect final visualization (unless, of course, it’s perfectly hideous)</li>
+<li>Making <strong>the worst</strong> graph requires extensive customization and code</li>
+<li>Making <strong>the worst</strong> graph means critically thinking about and identifying contributors to “bad” graphs</li>
+<li>Making <strong>the worst</strong> graph is surprisingly fun</li>
+</ol>
+<p>I was recently inspired to try my absolute dataviz worst by a <a href="https://github.com/rfordatascience/tidytuesday">#tidytuesday</a> prompt using data from <a href="https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368">Sarah Leo’s efforts to improve imperfect graphs in The Economist</a>.</p>
+<p>Instead of trying to recreate or further improve on their graphs, I decided to use my powers and energy for a much different purpose. A darker and more anarchistic purpose…</p>
+<p>Behold, my worst!</p>
+<p><img src="featured_cowplot_test.png" /></p>
+<p>The undiscerning eye might think “these graphs are abominations and there was clearly no effort put into them.”</p>
+<p>Wrong.</p>
+<p><strong>It’s a long dive from ggplot2 defaults into the depths of truly terrible DataViz, and it takes creativity and effort to keep sinking</strong>.</p>
+<p>Here are just a few things I learned or re-learned during my nosedive:</p>
+<ul>
+<li>Arrange multiple graphs with <a href="https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html"><strong>cow</strong>plot</a> by <a href="https://github.com/clauswilke"><strong>C</strong>laus <strong>O</strong>. <strong>W</strong>ilke</a></li>
+<li>Add figure labels and subtext</li>
+<li>Expand figure margins to let axis labels breathe</li>
+<li>Update fonts and colors in all graph components</li>
+<li>Convert to polar coordinates</li>
+<li>Customizing date formatting on axes</li>
+</ul>
+<p><a href="https://github.com/allisonhorst/allison-tidy-tuesdays/tree/master/2019-%2004-16">(<em>click here for my complete worst dataviz code</em>)</a></p>
+<p>Through the process of trying my worst I learned some new customization skills, created useful reference code for future ggplot2 efforts, and had fun – it felt oddly liberating to be deliberately and creatively awful.</p>
+<p>From now on, I’ll be adding a few early <code>ggplot2</code> activities requiring students to do their absolute dataviz worst. There’s plenty of room at the bottom, and we can learn a lot <em>and</em> have fun on our way down.</p>
+<div id="data-visualization-resources-in-the-other-direction" class="section level2">
+<h2>Data visualization resources (in the other direction):</h2>
+<ul>
+<li><p><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a> by Claus Wilke</p></li>
+<li><p><a href="https://kieranhealy.org/publications/dataviz/">Data Visualization: a Practical Introduction</a> by Kieran Healy</p></li>
+</ul>
+</div>
