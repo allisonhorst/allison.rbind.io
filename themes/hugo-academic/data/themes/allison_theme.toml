@@ -1,0 +1,18 @@
+# Theme metadata
+name = "allison_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#28928a"
+
+# Menu
+menu_primary = "#386d73" # 500
+menu_text = "#e8f5f4"
+menu_text_active = "#28928a" # A100
+menu_title = "#e8f5f4"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
